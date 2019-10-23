@@ -21,7 +21,7 @@ Project 7 Score:  94/100
 
 Midterm Score:  97/100
 
-Final Score:  86/100
+Final Exam Score:  86/100
 
 Final Grade: A
 
