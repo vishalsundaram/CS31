@@ -15,7 +15,7 @@ Project 4 Score:  91/100
 
 Project 5 Score:  72/100
 
-Project 6 Score:  20/25
+Project (HW) 6 Score:  20/25
 
 Project 7 Score:  94/100
 
