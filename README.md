@@ -1,27 +1,25 @@
-# CS31
-Computer Science 31: Introduction to C++
+# CS31: Introduction to Computer Science I
+### Spring 2019 CS 31, Prof. David Smallberg
 
-A repository of my UCLA CS31 projects.
+#### Grade Received: A
 
-My CS31 Grades:
+These are my solutions to the prescribed HW/Projects for CS31. The purpose of this repository is to display/backup my work.
 
-Project 1 Score:  100/100
+| Project | Score |
+| ------- | ----- |
+| 1 | 100/100  |
+| 2 | 94/100  |
+| 3 | 96/100  |
+| 4 | 91/100  |
+| 5 | 72/100  |
+| 6 | 20/25  |
+| 7 | 94/100  |
 
-Project 2 Score:  94/100
+| Assessment | Score |
+| ---------- | ----- |
+| Midterms | 97/100 |
+| Final | 86/100 |
 
-Project 3 Score:  96/100
 
-Project 4 Score:  91/100
 
-Project 5 Score:  72/100
-
-Project (HW) 6 Score:  20/25
-
-Project 7 Score:  94/100
-
-Midterm Score:  97/100
-
-Final Exam Score:  86/100
-
-Final Grade: A
 
